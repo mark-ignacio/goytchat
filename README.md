@@ -1,3 +1,3 @@
 # goytchat
 
-The fiddly byte parts of [github.com/taizan-hokuto/pytchat](github.com/taizan-hokuto/pytchat), but as a Go package.
+The fiddly byte parts of [https://github.com/taizan-hokuto/pytchat](https://github.com/taizan-hokuto/pytchat), but as a Go package.
